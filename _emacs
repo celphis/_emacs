@@ -37,5 +37,5 @@
 ;; Keyboard shortcut assignments #keys
 ;;(global-set-key "\M-n"  (lambda () (interactive) (scroll-up   4)) )
 ;;(global-set-key "\M-p"  (lambda () (interactive) (scroll-down 4)) )
-(global-set-key "\M-f" "\C-u1\C-v")
-(global-set-key "\M-b" "\C-u1\M-v")
+(global-set-key "\M-n" "\C-u1\C-v")
+(global-set-key "\M-p" "\C-u1\M-v")
